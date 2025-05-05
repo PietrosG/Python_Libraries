@@ -1,5 +1,5 @@
 #AI Libraries
 
-```py
+```python
 from tensorflow.keras import Sequential, layers 
 ```
