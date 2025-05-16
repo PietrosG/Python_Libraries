@@ -1,4 +1,4 @@
-
+#manage.py script for Django Module - Just in case it disappears :)#
 import os
 import sys
 
